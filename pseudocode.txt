@@ -1,0 +1,12 @@
+display player 1's turn
+
+player clicks on square
+if square is blank add an x else do nothing and wait
+
+check if three in a row
+    if there is three in a row cross off that tile
+        check if there is three in a row on the top level
+            if three in a row on top level decide who is the winner
+
+else switch display to player 2's turn
+highlight the next square to be played in
